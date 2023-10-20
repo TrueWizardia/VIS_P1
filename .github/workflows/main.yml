@@ -7,7 +7,7 @@ on:
 
 jobs:
   build:
-    name: Buils Docker image
+    name: Buils Docker imag
     runs-on: ubuntu-latest
     steps:
     - # Клон приложения в ОС

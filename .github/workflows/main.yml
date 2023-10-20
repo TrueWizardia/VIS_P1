@@ -10,7 +10,7 @@ jobs:
     name: Buils Docker image
     runs-on: ubuntu-latest
     steps:
-    -# Клон приложения в ОС
+    - # Клон приложения в ОС
       name: Checkout
       uses: actions/checkout@v3
     -# Вход в DockerHub
